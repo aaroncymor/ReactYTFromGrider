@@ -8,7 +8,7 @@ import VideoDetail from './components/video_detail';
 
 // const is an es2016 syntax, similar to 'var'.
 // const declartion means it's final. it's not going to change.
-const API_KEY = 'AIzaSyAGCH32ZAdaGVQmfHxzVr4dQsyHtEibxKk';
+const API_KEY = '';
 
 // Create a new component. 
 // This component should produce some HTML
